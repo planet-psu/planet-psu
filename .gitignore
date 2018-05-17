@@ -63,3 +63,6 @@ typings/
 # Blender backup files
 #
 *.blend[1-9]
+
+# tmp files
+*-
